@@ -1,0 +1,3 @@
+**PCB DESIGN**
+Hello, 
+Here is a KICAD design for the PCB. Make sure to download KICAD befor opening this file.
