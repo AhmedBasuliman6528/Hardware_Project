@@ -7,4 +7,4 @@ Here is the KICAD design for the PCB. Make sure to download KICAD before opening
 You can also find the AI file for the case design. Make sure to download Adobe Illustrator.
 
 ## CODE 
-Here is the code used in this project
+Code available for this project in .python code.
